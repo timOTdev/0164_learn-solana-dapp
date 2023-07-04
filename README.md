@@ -1,4 +1,6 @@
-# Figment Learn - Solana Pathway
+# 0164_learn_solana_dapp_FIGMENT
+
+## Figment Learn - Solana Pathway
 
 We made this app to help developers learn about Solana.
 
